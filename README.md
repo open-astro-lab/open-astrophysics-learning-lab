@@ -1,3 +1,5 @@
+***TO OPEN ANY MODULE OR TO ACCESS ALL THE MATIERIALS, VIEW THE FILE AS RAW, AND IT WILL BE DOWNLOADED TO YOUR DEVICE
+
 # open-astrophysics-learning-lab
 A beginner-friendly, Python-based introduction to stellar astrophysics and HR diagrams.
 Open Astrophysics Learning Lab
